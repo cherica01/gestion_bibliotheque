@@ -1,0 +1,273 @@
+
+    .content-body.height {
+    /*min-height: 840px !important;*/
+}
+label.month-search {
+    padding-left: 326px;
+}
+ .fc-sun {
+    background-color: yellow;
+}
+.fc-sat {
+    background-color: yellow;
+}
+span.swatch7 {
+    background: #7d8c02;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch6 {
+    background: #932ab6;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+
+span.swatch5 {
+    background: #51a8d2;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch4 {
+    background: #6753d4;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+    display: inline-block;
+    font-weight: 500;
+}
+span.swatch3 {
+    background: #dc3545;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+span.swatch2 {
+    background: #28a744;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+span.swatch {
+    background: #fafe03;
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 2px solid #f2f2f2;
+     display: inline-block;
+     font-weight: 500;
+}
+
+.fc-ltr .fc-basic-view .fc-day-top .fc-day-number {
+    color: black;
+}
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  
+}
+.fc-unthemed td.fc-today {
+    background: #6753d4 !important;
+}
+.nav-header {
+    height: 9rem !important;
+}
+.nk-sidebar {
+	top: 8.9rem;
+}
+.livetime {
+        /*padding-left: 659px;*/
+    font-weight: 600;
+
+}
+
+
+  .panel-featured-primary {
+    border-color: #0088cc;
+}
+.panel-featured-primary {
+    border-color: #cccccc;
+}
+.panel-featured-left {
+    border-left: 3px solid #33353f;
+}
+.panel {
+    background: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
+.panel-body {
+    background: #638ad1;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    border-radius: 5px;
+}
+.panel-body {
+    padding: 15px;
+}
+.total
+{
+   background: #4cb750;
+}
+.issued {
+    background: #ffe10b;
+}
+.available {
+    background: #ffe10b;
+}
+.widget-summary {
+    display: table;
+    width: 100%;
+}
+.widget-summary .widget-summary-col.widget-summary-col-icon {
+    width: 1%;
+}
+.widget-summary .widget-summary-col {
+    display: table-cell;
+    vertical-align: top;
+    width: 100%;
+}
+.widget-summary .widget-summary-col {
+    display: table-cell;
+    vertical-align: top;
+    width: 100%;
+}
+.widget-summary .summary {
+    min-height: 65px;
+    word-break: break-all;
+}
+.widget-summary .summary .title {
+    word-break: normal;
+}
+.widget-summary .summary .title {
+    margin: 0;
+    font-size: 16px;
+    font-size: 1.4rem;
+    line-height: 22px;
+    line-height: 2.2rem;
+    color: #333333;
+    font-weight: 500;
+}
+.widget-summary .summary .info {
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 30px;
+    line-height: 3rem;
+}
+.widget-summary .summary-icon {
+    margin-right: 15px;
+    font-size: 42px;
+    font-size: 4.2rem;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+    color: #fff;
+    -webkit-border-radius: 55px;
+    border-radius: 55px;
+}
+.bg-secondary {
+    background: #e36159;
+    color: white;
+}
+.widget-summary .summary .amount {
+    margin-right: 0.2em;
+    font-size: 24px;
+    font-size: 1.9rem;
+    font-weight: 600;
+    color: #ffffff;
+    vertical-align: middle;
+}
+.widget-summary .summary-footer {
+    padding: 5px 0 0;
+    border-top: 1px dotted #ddd;
+    text-align: right;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.widget-summary:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.panel-featured-primary {
+    border-color: #0088cc;
+}
+
+.panel-featured-left {
+    border-left: 3px solid #33353f;
+}
+.panel {
+    background: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
