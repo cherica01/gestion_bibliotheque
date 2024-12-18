@@ -22,7 +22,7 @@ if(isset($_REQUEST['sbt-book-btn']))
     {
         ?>
 <script type="text/javascript">
-    alert("Livre ajouté avec succès.zzzzzzzzzzzzzzzzzzzzzzzEEEEEEEEEEEEEEEEEEzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz")
+    alert("Livre ajouté avec succès.z")
 </script>
 <?php
 }
